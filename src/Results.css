@@ -1,0 +1,19 @@
+.Results::first-letter {
+  text-transform: capitalize;
+}
+.Results h1 {
+  font-weight: bolder;
+  margin-top: 35px;
+}
+.Results-word {
+  margin: 0 auto;
+  padding: 20px 10px;
+  background: #ffda77;
+  min-height: 10em;
+  width: 220px;
+  top: 13px;
+  box-shadow: 5px 5px 7px rgb(0 0 0 / 60%);
+  position: relative;
+  transform: rotate(5deg);
+  left: 350px;
+}

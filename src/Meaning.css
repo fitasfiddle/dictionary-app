@@ -1,0 +1,35 @@
+.Meaning {
+  font-size: 22px;
+  position: relative;
+}
+.Meaning::first-letter {
+  text-transform: capitalize;
+}
+.Meaning h4 {
+  font-weight: bold;
+}
+.Meaning-paper {
+  background: #fff;
+  max-width: 80%;
+  padding: 70px 40px;
+  text-align: left;
+  margin: 20px auto;
+  box-shadow: 5px 5px 7px rgb(0 0 0 / 60%);
+  position: relative;
+  margin-top: 50px;
+}
+.Meaning-tape {
+  height: 40px;
+  top: -20px;
+  left: 100px;
+  width: 200px;
+  background-color: #bbbbbb;
+  border-right: 2px dotted #aaaaaa;
+  border-left: 2px dotted #aaaaaa;
+  opacity: 0.5;
+  position: absolute;
+  transform: rotate(-5deg);
+}
+.Meaning-example {
+  color: #a3633e;
+}

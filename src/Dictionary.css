@@ -1,0 +1,14 @@
+.Dictionary {
+  margin: 30px;
+}
+.Dictionary input {
+  width: 400px;
+  height: 3rem;
+  background: transparent;
+  font-size: large;
+  padding-left: 10px;
+}
+.Results-error {
+  font-size: 26px;
+  margin-top: 20px;
+}
